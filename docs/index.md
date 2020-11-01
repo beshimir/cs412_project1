@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -26,7 +26,7 @@
 
 
     <hr> <!--    Contents    -->
-    <h2>Contents<img src="/gallery/signature_berilo.png" alt="My signature." width="200" style="float: right;"></h2>
+    <h2>Contents<img src="gallery/signature_berilo.png" alt="My signature." width="200" style="float: right;"></h2>
 
     <ol>
         <li><a href="#par1">General information</a></li>
@@ -46,7 +46,7 @@
     <hr> <!--    General information    -->
 
     <h2><a id="par1">General information</a></h2>
-    <img src="/gallery/myself.png" alt="A picture of myself." width="200">
+    <img src="gallery/myself.png" alt="A picture of myself." width="200">
     <table>
         <tr>
             <th >Full name:</th>
