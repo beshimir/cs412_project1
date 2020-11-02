@@ -11,11 +11,12 @@
     <meta name=“last-modified” content=“25-10-2020”> -->
 
     
-    <!--    Project 1: Resume        
+   <!--    Project 1: Resume        
             Made by: Haris Berilo    
             Student ID: 180302004    -->
 
-   <link rel="stylesheet" href="docs/style.css">
+   <style> body { background-color: hotpink; } 
+    </style>
 
 </head>     
     
