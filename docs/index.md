@@ -15,7 +15,7 @@
             Made by: Haris Berilo    
             Student ID: 180302004    -->
 
-
+    <link rel="stylesheet" href="docs/style.css">
 
 </head>     
     
