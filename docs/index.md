@@ -15,8 +15,7 @@
             Made by: Haris Berilo    
             Student ID: 180302004    -->
 
-   <style> body { background-color: hotpink; } 
-    </style>
+   
 
 </head>     
     
