@@ -27,7 +27,7 @@
 
     <hr> <!--    Contents    -->
     <h2>Contents<img src="gallery/signature_berilo.png" alt="My signature." width="200" style="float: right;"></h2>
-    <p><a href="https://https://github.com/beshimir/cs412_project1">Link to the 2nd part of the project!</a> A heavily-updated version<br>with CSS and aesthetics.</p>
+    <p><a href="https://beshimir.github.io/cs412_project2/index">Link to the 2nd part of the project!</a> A heavily-updated version<br>with CSS and aesthetics.</p>
     <ol>
         <li><a href="#par1">General information</a></li>
         <li><a href="#par2">Contact</a></li>
